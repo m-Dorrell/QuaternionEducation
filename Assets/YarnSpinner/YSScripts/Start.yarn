@@ -1,0 +1,29 @@
+﻿title: Start
+---
+“Quaternions \[...\] though beautifully ingenious, have been an unmixed evil to those who have touched them in any way.” - Lord Kelvin (1892)
+-> Begin
+<<jump Welcome>>
+===
+
+title: Welcome
+---
+Welcome to the XR experience 'Quaternions in 3D'!
+This experience aims to build up an intuitive understanding of quaternions by bringing the 4D concept into 3D space.
+
+The learning will be built up slowly chapter-by-chapter to;
+First, motivate the need for a better transformation system beyond a naive implementation of euler rotations.
+Second, demonstrate the utility of the cartesian and polar coordinate systems.
+Third, derive a better system that combines the benefits of cartesian and polar coordinates into a single system - complex numbers.
+Finally, provide an in-depth explanation for what quaternions are and how they can be successfully used.
+<<jump ChapterSelect>>
+===
+
+title: ChapterSelect
+---
+Please select a chapter learn;
+
+-> Chapter 1 - Euler Rotation & Gimbal Problems
+    <<jump Chapter1>>
+-> Start Over
+    <<jump Welcome>>
+===
